@@ -1,1 +1,3 @@
-# proxy-powershell
+# Powershell=Scripts-Collection
+
+Powershell Scripts Collection
